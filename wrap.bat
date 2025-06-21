@@ -1,0 +1,1 @@
+pyinstaller -w -i assets/icons/store_shop.ico --name Hurricane --add-data "assets;assets" --add-data "csgo_shop.db;." main.py
