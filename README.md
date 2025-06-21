@@ -1,7 +1,8 @@
 # Hurricane Community Store
 
 A modern CS:GO community store application built with PyQt5, featuring a comprehensive shop system, user management, and Steam integration.
-
+Admin User:123
+Admin Password:111
 ## 🚀 Features
 
 ### Core Features
@@ -192,6 +193,9 @@ If you encounter any issues or have questions:
 # Hurricane 社区商店
 
 一个基于 PyQt5 构建的现代化 CS:GO 社区商店应用程序，具有完整的商店系统、用户管理和 Steam 集成功能。
+
+管理员账号:123
+管理员密码:111
 
 ## 🚀 功能特性
 
